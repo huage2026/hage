@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1  tvg-name="法国国际广播电台" tvg-id="法国国际广播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" tvg-chno="2" group-title="0-Radio#华语",法国国际广播电台
+http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+#EXTINF:-1  tvg-name="法国国际广播电台" tvg-id="法国国际广播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" tvg-chno="1" group-title="0-Radio#华语",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1  tvg-name="RTI中央廣播电台" tvg-id="RTI中央廣播电台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Radio_Taiwan_International_logo_%282024%29.png" tvg-chno="8" group-title="0-Radio#华语",RTI中央廣播电台
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1  tvg-name="希望之声&中国广播台" tvg-id="希望之声&中国广播台" tvg-logo="https://img.soundofhope.org/2019-11/soh_china.jpg"  group-title="0-Radio#华语",希望之声&中国广播台
+https://livecast2.soundofhope.org/soh-live
